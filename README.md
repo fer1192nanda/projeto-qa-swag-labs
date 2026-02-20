@@ -44,7 +44,7 @@ Planilha disponível na pasta [Relatório de Bugs](.Relatorio_de_Bugs_Swag_Labs)
 ---
 
 ## 📂 Evidências
-As evidências estão disponíveis na pasta [Eviências](.BUG-001)
+As evidências estão disponíveis na pasta [Evidências](.BUG-001)
 
 ---
 
