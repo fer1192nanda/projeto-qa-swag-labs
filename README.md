@@ -34,7 +34,8 @@ Planilha disponível na pasta [Casos de Teste](./Casos_de_Teste_Swag_Labs.xlsx)
 ---
 
 ## 🐞 Bugs Encontrados
-Planilha disponível na pasta Relatorio_de_Bugs_Swag_Labs.xlsx
+Planilha disponível na pasta [Relatório de Bugs](./Relatorio_de_Bugs_Swag_Labs.xlsx)
+
 
 ### 🔴 Bug Crítico Identificado
 **Permite finalizar compra com carrinho vazio**
