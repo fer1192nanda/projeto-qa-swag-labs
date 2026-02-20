@@ -29,7 +29,7 @@ Validar o fluxo completo de compra da aplicação web Swag Labs, garantindo o fu
 ---
 
 ## 📊 Casos de Teste
-Planilha disponível na pasta `/Casos-de-Teste`
+Planilha disponível na pasta [Casos de Teste](./Plano_de_Testes_Swag_Labs)
 
 ---
 
