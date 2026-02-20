@@ -29,12 +29,12 @@ Validar o fluxo completo de compra da aplicação web Swag Labs, garantindo o fu
 ---
 
 ## 📊 Casos de Teste
-Planilha disponível na pasta [Casos de Teste](./Plano_de_Testes_Swag_Labs)
+Planilha disponível na pasta [Casos de Teste](Plano_de_Testes_Swag_Labs_)
 
 ---
 
 ## 🐞 Bugs Encontrados
-Planilha disponível na pasta `/Relatorio-de-Bugs`
+Planilha disponível na pasta [Relatório de Bugs](.Relatorio_de_Bugs_Swag_Labs)
 
 ### 🔴 Bug Crítico Identificado
 **Permite finalizar compra com carrinho vazio**
