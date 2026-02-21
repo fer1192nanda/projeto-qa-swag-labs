@@ -29,12 +29,12 @@ Validar o fluxo completo de compra da aplicação web Swag Labs, garantindo o fu
 ---
 
 ## 📊 Casos de Teste
-Planilha disponível na pasta [Casos de Teste](./Casos_de_Teste_Swag_Labs.xlsx)
+Planilha disponível na pasta [Casos de Teste](./Casos_de_Teste_Swag_Labs.pdf)
 
 ---
 
 ## 🐞 Bugs Encontrados
-Planilha disponível na pasta [Relatório de Bugs](./Relatorio_de_Bugs_Swag_Labs.xlsx)
+Planilha disponível na pasta [Relatório de Bugs](./Relatorio_de_Bugs_Swag_Labs.pdf)
 
 
 ### 🔴 Bug Crítico Identificado
